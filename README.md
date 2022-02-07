@@ -17,4 +17,7 @@ Thanks for viewing my project, please let me know if you have any suggestions. @
 
 Also check out my Shiny app version: https://seththedatascientist.shinyapps.io/Test_Shiny_App/
 
+Other Shiny Apps to check out: Watch Index - https://seththedatascientist.shinyapps.io/Watch_Index/
+Attacking Area of the Field - https://seththedatascientist.shinyapps.io/Passing_Area_of_Field/
+
 ![2021 ATL EPA Tracker](https://user-images.githubusercontent.com/81538390/151223365-1ded0f61-2d96-4c88-9de5-a1f4cd66e353.png)
