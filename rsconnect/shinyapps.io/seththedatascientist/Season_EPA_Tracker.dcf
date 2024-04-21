@@ -1,0 +1,9 @@
+name: Season_EPA_Tracker
+title: Season_EPA_Tracker
+username:
+account: seththedatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5588764
+bundleId: 8501484
+url: https://seththedatascientist.shinyapps.io/Season_EPA_Tracker/

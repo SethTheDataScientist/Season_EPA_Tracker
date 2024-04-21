@@ -1,0 +1,13 @@
+name: Test_Shiny_App
+title: Test_Shiny_App
+username:
+account: seththedatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5536276
+bundleId: 5522382
+url: https://seththedatascientist.shinyapps.io/Test_Shiny_App/
+when: 1643497289.17171
+lastSyncTime: 1643497289.17171
+asMultiple: FALSE
+asStatic: FALSE
